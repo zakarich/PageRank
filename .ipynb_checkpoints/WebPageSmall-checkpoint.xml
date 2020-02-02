@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphe>
+    <page PageName='A'>
+        <listLinks>
+            <link>B</link>
+            <link>C</link>
+        </listLinks>
+    </page>
+    
+    <page PageName='B'>
+        <listLinks>
+            <link>D</link>
+        </listLinks>
+    </page>
+    
+    <page PageName='C'>
+        <listLinks>
+            <link>A</link>
+            <link>B</link>
+            <link>D</link>
+        </listLinks>
+    </page>
+    
+    <page PageName='D'>
+    
+    </page>
+    
+</Graphe>
